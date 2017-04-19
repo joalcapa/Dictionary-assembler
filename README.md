@@ -12,7 +12,7 @@ $ git clone git://github.com/joalcapa/Dictionary-assembler.git
 By entering the repository folder:
 
 `
-$ cd Protocol-Comunication-MA
+$ cd Dictionary-assembler
 `
 
 ##### Nasm installation
